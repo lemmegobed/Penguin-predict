@@ -89,7 +89,7 @@ if st.button("Penguin data"):
         "<h1 style='text-align: #center; color:black ;font-size:30px ;'>➥ 📃 Describing the data </h1>"
         , unsafe_allow_html=True   
         )
-    img = Image.open("PP.png)
+    img = Image.open("PP.png")
     st.image(img)
     st.markdown(
         "<b><h1 style='text-align: #center; color:black ;font-size:25px ;'>▶ Columns in the dataset</h1>"
