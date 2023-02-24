@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 import pickle
 from sklearn.ensemble import RandomForestClassifier
-import Image
 from PIL import Image
 import _imaging
 from PIL.Image import core as _imaging
